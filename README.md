@@ -10,7 +10,9 @@ apt-get install docker-compose-plugin
 *****Now Wordpress Dockorization:
 
 mkdir infon
+
 cd infon
+
 vim docker-compose.yaml
 ....
 Create file like sample
