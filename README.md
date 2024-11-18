@@ -22,4 +22,4 @@ Create file like sample
 
 docker compose up -d
 
-Browse IP-ADDRESS:80  --> result
+Browse IP-ADDRESS:80  --> see the result
